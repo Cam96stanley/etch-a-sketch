@@ -1,0 +1,14 @@
+.gridRow {
+  display: flex;
+  justify-content: space-around;
+  padding: 2px;
+  height: 38px;
+}
+
+.cell {
+  border: 1px solid gray;
+  display: flex;
+  justify-content: space-around;
+  padding: 2px;
+  width: 70px;
+}
